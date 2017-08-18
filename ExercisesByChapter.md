@@ -42,4 +42,6 @@
 - https://github.com/BaseCampCoding/FMDB-OOP
 
 # Chapter 16: Graphical User Interfaces
+
+## Partial Project
 - https://github.com/BaseCampCoding/Tetris-GUI
