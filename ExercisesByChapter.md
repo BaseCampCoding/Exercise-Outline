@@ -40,7 +40,7 @@
 - https://github.com/BaseCampCoding/University-OOP
 
 ## Partial Project
-- https://github.com/BaseCampCoding/Book-OOP
+- https://github.com/BaseCampCoding/Molecules-OOP
 - https://github.com/BaseCampCoding/Hometown-OOP
 - https://github.com/BaseCampCoding/FMDB-OOP
 
