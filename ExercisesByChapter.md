@@ -9,6 +9,9 @@
 - https://github.com/BaseCampCoding/Doctest-Assignments/blob/master/decisions1.py
 - https://github.com/BaseCampCoding/Doctest-Assignments/blob/master/decisions2.py
 
+## Partial Project
+- https://github.com/BaseCampCoding/Generations-Decisions
+
 # Chapter 8:  Lists
 
 ## Unit Test
